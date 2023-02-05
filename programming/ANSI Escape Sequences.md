@@ -43,7 +43,7 @@ Most terminals support from 8 to 16 colors, as well as 256 (8-Bit) colors. These
 
 Where `{ID}` should be replaced with the color index 0 to 255 of the following table:  
 
-![[ansi-colors-256.png]]
+![[../assets/ansi-colors-256.png]]
 
 ### RGB-Colors
 
